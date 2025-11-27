@@ -1,6 +1,21 @@
-**Creature Type:** Tiny Aberration (Fungal), Neutral  
-**Armor Class:** 14 (natural armor)  
-**Hit Points:** 18 (4d4 + 8)  
+---
+tags:
+  - creature
+  - companion
+  - sepsora
+  - hams_stoutmouse
+source: [[01. DM Screen/Canon & Prep Hub]]
+linked_character: [[02. Characters/PC/Hams Stoutmouse]]
+appearance: "Formed when Ham shed his eye while communing with Sepsora's membrane in Act 2, often skittering through fungal passages alongside the party."
+---
+
+Backlinks: [[02. Characters/PC/Hams Stoutmouse]] · [[01. DM Screen/Canon & Prep Hub]]
+
+Ham's flesh-shed eye companion manifests in Sepsora's membrane-lined caverns, keeping pace with the party whenever they return to the colony's fungal corridors.
+
+**Creature Type:** Tiny Aberration (Fungal), Neutral
+**Armor Class:** 14 (natural armor)
+**Hit Points:** 18 (4d4 + 8)
 **Speed:** 30 ft., climb 30 ft.
 
 **STR:** 4 (-3) | **DEX:** 16 (+3) | **CON:** 14 (+2) | **INT:** 6 (-2) | **WIS:** 12 (+1) | **CHA:** 4 (-3)
