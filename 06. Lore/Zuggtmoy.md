@@ -1,8 +1,17 @@
-**itle(s):** Lady of Rot and Decay, Queen of Spores, She Who Spreads the Spoil  
-**Type:** Demon Lord  
-**Symbol:** A jawless skull surrounded by mushrooms and puffballs  
-**Alignment:** Chaotic Evil  
-**Domains:** Decay, Fungi, Corruption, Entropy, Nature (twisted)  
+---
+title: "Zuggtmoy"
+tags:
+  - sepsora
+  - demon_lord
+  - zuggtmoy
+last_updated: 2025-05-25
+---
+
+**Title(s):** Lady of Rot and Decay, Queen of Spores, She Who Spreads the Spoil
+**Type:** Demon Lord
+**Symbol:** A jawless skull surrounded by mushrooms and puffballs
+**Alignment:** Chaotic Evil
+**Domains:** Decay, Fungi, Corruption, Entropy, Nature (twisted)
 **Plane of Influence:** The Abyss, specifically the **Abyssal layer of Shedaklah** (shared with Juiblex)
 
 ---
@@ -10,6 +19,8 @@
 ## 📖 Lore Summary
 
 Zuggtmoy is an ancient demon lord obsessed with rot, parasitism, and fungal proliferation. She seeks to infect the Material Plane with her spores, slowly converting living things into fungal thralls. Worshippers rarely know her name—many cults revere her unknowingly through mysterious fungal growths or “nature spirits.”
+
+For broader campaign context, see [[06. Lore/Campaign Synopsis]].
 
 She is deeply patient, allowing infestations to fester in secret until the time is right for mass corruption. Zuggtmoy is not a god in the traditional sense but seeks divinity through parasitic domination and biomass accumulation.
 
