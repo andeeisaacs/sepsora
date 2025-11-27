@@ -1,6 +1,17 @@
-# **Sepsora – Campaign Synopsis**
+---
+title: "Sepsora – Campaign Synopsis"
+last_updated: 2025-05-27
+tags:
+  - sepsora
+  - lore
+  - campaign_synopsis
+---
 
-**In the twilight of Faerûn’s uneasy peace, something ancient stirs beneath the roots of the world.**  
+[[01. DM Screen/Sepsora — Canon & Prep Hub]]
+
+#sepsora #lore #campaign_synopsis
+
+**In the twilight of Faerûn’s uneasy peace, something ancient stirs beneath the roots of the world.**
 At first, it is only a whisper, a report of a village abandoned overnight, strange blooms in the dark woods, and people who only move in shadows wandering freely in the sun. When our party is sent to investigate a quiet village near a mountain, they are instead drawn into a mystery of terrifying scope: a hidden fungal intelligence quietly spreading beneath the surface, reshaping life according to a vision; not of malice — but of inevitable evolution.
 
 The myconids do not seek destruction. They seek **ascension**.  
