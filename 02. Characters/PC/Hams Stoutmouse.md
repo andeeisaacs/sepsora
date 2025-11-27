@@ -1,3 +1,23 @@
+---
+name: Hams Stoutmouse
+player: TBD
+class: Ranger
+species: Halfling
+pronouns: he/him
+status: active
+tags:
+  - pc
+  - sepsora
+  - halfling
+  - ranger
+---
+
+# Backlinks
+- [[01. DM Screen/Canon & Prep Hub]]
+- [[07. Sessions/1. Act One/01. Session 1/01. Session One -  Silence]]
+- [[07. Sessions/2. Act Two/0.2.1  Session 5 Act 2 - No Rest for the Rest]]
+- [[07. Sessions/2. Act Two/0.2.3 Session 7 Act 2 - Locked In]]
+
 Pronouns: He/Him
 Gender: Male
 Species: Halfling
