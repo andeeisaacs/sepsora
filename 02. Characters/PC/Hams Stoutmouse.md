@@ -35,55 +35,37 @@ A young adult halfling, 50 years old. He has tanned skinned and medium brown sha
 He rolls up his sleeves and tucks in his shirt as best he can, always claiming that he just needs to get this to a tailor the next time he's in town (he never ever attempts to find one.) He wears a brown vest and pants with secret pockets that help hide his little vials of potions. Along with worn leather boots that have quite a bit of a heel (that he stores his gold pieces in.) He wears a dark green cloak that drags on the floor... sometimes. Anyways, the tailor will get to it.
 
 # Character questions and answers
- How do you feel about mud? 
-	I'm going to get stuck. Give me uppies!,
-Sand? 
-    Indifferent 
-Blood? 
-    Just another day on the job. 
-Walking through a spider web? 
-    FUCK MY LIFE
+- **How do you feel about mud?** I'm going to get stuck. Give me uppies!
+- **Sand?** Indifferent.
+- **Blood?** Just another day on the job.
+- **Walking through a spider web?** FUCK MY LIFE.
 
- What's a personal rule you will not break even under threat? 
-	 Will not harm/kill a baby or child of any species.
- Has it been tested? 
-	Thank the Gods, no.
+- **What's a personal rule you will not break even under threat?** Will not harm/kill a baby or child of any species.
+- **Has it been tested?** Thank the Gods, no.
 
-What's something a stranger could do that would annoy you all day? 
-	Ordering me around as a servant.
-How would you handle it?
-	Assert myself as a professional in my field.,
+- **What's something a stranger could do that would annoy you all day?** Ordering me around as a servant.
+- **How would you handle it?** Assert myself as a professional in my field.
 
-How did you learn combat. 
-	Accidentally coming across other Rangers in the forests.
-Why did you learn it? 
-	Once I discovered that there was a life to be had outside my family's farm and a world to explore, I decided that my life's quest was to get out and explore.
-            
-Who trained you?
-	Various Rangers, raccoons, and observing various soldiers training while I was tucked away in the trees.
+- **How did you learn combat?** Accidentally coming across other Rangers in the forests.
+- **Why did you learn it?** Once I discovered that there was a life to be had outside my family's farm and a world to explore, I decided that my life's quest was to get out and explore.
 
-What was your first real weapon? 
-	A bow recovered from a dead body lying in the forest. I asked the dead guy if I could have it. He didn't say no.
+- **Who trained you?** Various Rangers, raccoons, and observing various soldiers training while I was tucked away in the trees.
 
- If you could learn one new form of combat, what would it be and why? I
-	  would like to be able to do close combat sword fighting. But not right now, it's scary.,
+- **What was your first real weapon?** A bow recovered from a dead body lying in the forest. I asked the dead guy if I could have it. He didn't say no.
 
-Are you religious or believe in any deities?
-	I know all of the lore of the gods, spirits and deities. I'm not actively practicing, however I'm mildly superstitious, and very-stitious when situations get hairy.,
-    
- What's something you hoard or collect?
-	  Little jars and vials. 
-  Do you realize you do it? 
-	What, doesn't everybody???,
+- **If you could learn one new form of combat, what would it be and why?** I would like to be able to do close combat sword fighting. But not right now, it's scary.
 
-Have you ever befriended someone who should've been your enemy. 
-	Yes. They used me to keep them safe while adventuring, robbed me and left me for dead. I was brought into town by a group of bandits who found me, I had helped them with their horses before. I know not to judge a book by its cover.,
-    
-Describe the most beautiful thing you've ever seen, and how it made you feel. 
-	Waking up just as the sun rises with its rays peeking through the dense mists around the mountains, seeing all the animals slowly waking up and doing their morning stretches. Life is simple and amazing. Pure fuzzy feeling.,
-    
-How do you keep your money safe while traveling? 
-	I have a decoy bag of money in my satchel that carries small low currency coins. I have carved out slots in my shoes to hide my gold pieces (now that I think about it, are really hard to get back out. I'll have to destroy my shoes.),
-    
-What's your backup plan if this whole 'adventuring' thing doesn't work out? 
-	I'm going to take my shoe gold and going to start my own animal sanctuary.
+- **Are you religious or believe in any deities?** I know all of the lore of the gods, spirits and deities. I'm not actively practicing; however, I'm mildly superstitious and very-stitious when situations get hairy.
+
+- **What's something you hoard or collect?** Little jars and vials.
+- **Do you realize you do it?** What, doesn't everybody???
+
+- **Have you ever befriended someone who should've been your enemy?** Yes. They used me to keep them safe while adventuring, robbed me and left me for dead. I was brought into town by a group of bandits who found me; I had helped them with their horses before. I know not to judge a book by its cover.
+
+- **Describe the most beautiful thing you've ever seen, and how it made you feel.** Waking up just as the sun rises with its rays peeking through the dense mists around the mountains, seeing all the animals slowly waking up and doing their morning stretches. Life is simple and amazing. Pure fuzzy feeling.
+
+- **How do you keep your money safe while traveling?** I have a decoy bag of money in my satchel that carries small low currency coins. I have carved out slots in my shoes to hide my gold pieces (now that I think about it, they're really hard to get back out—I'll have to destroy my shoes.)
+
+- **What's your backup plan if this whole 'adventuring' thing doesn't work out?** I'm going to take my shoe gold and start my own animal sanctuary.
+
+#halfling #ranger #animalcompanion
