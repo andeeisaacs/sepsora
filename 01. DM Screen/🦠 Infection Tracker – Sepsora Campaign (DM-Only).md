@@ -2,7 +2,7 @@
 Each character has a hidden Infection Tolerance total determined by:
 **(1d10 roll × 10) + Modifier**
 
-## !CALC SESSION 4 POINTS!
+## Revisit the mechanics of this and see if we should rethink how we handle this and what the ultimate last mutation happens. Maybe a sentience roll? Need to brainstorm this. 
 
 | Character              | Modifier | 1st ()              | 2nd | 3rd    | 4th | Current Tally |
 | ---------------------- | -------- | ------------------- | --- | ------ | --- | ------------- |
