@@ -1,3 +1,15 @@
+---
+type: weapon
+rarity: unique
+attunement: true
+wielder: "[[02. Characters/PC/Hams Stoutmouse]]"
+tags:
+  - item
+  - weapon
+  - ranged
+  - sepsora
+---
+
 *Weapon (martial, loading, ranged), unique (magical, requires attunement)*
 **Damage**: 1d6 Piercing
 
