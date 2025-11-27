@@ -50,7 +50,7 @@ tags:
 
 ### Core Beats (keep modular)
 - 2–3 encounters while climbing toward / inside the mansion level.
-- Confront: [[Governor Richard Der'ier]] (moral/political pivot).
+- Confront: [[02. Characters/NPC/Governor Richard Der'ier]] (moral/political pivot).
 - Escape: Secomber in collapse (physical and/or civic).
 - Hook: Druid circle direction + Nola/Mira collision (Act 3 runway).
 
@@ -75,12 +75,12 @@ tags:
 
 ## Hot Links — Key NPCs #npcs
 - [[02. Characters/NPC/Tressa Holt]]
-- [[Calen]]
-- [[Mira]]
-- [[Nola]]
-- [[Harlan]]
-- [[Erel]]
-- [[Governor Richard Der'ier]]
+- [[02. Characters/NPC/Grayhalls/Calen]]
+- [[02. Characters/NPC/Grayhalls/Mira]]
+- [[02. Characters/NPC/Grayhalls/Nola]]
+- [[02. Characters/NPC/Grayhalls/Harlan]]
+- [[02. Characters/NPC/Grayhalls/Erel]]
+- [[02. Characters/NPC/Governor Richard Der'ier]]
 - [[02. Characters/NPC/The Crooked One/Kronos, The Crooked One]]
 - [[02. Characters/NPC/The Crooked One/Chronus, The Crooked Bloom (Mythic Form).]]
 
